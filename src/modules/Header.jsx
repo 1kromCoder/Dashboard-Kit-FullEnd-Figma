@@ -40,7 +40,7 @@ const Header = () => {
         </div>
         <span className='w-[1px] h-[32px] inline-block bg-[#DFE0EB]'></span>
         <div className='flex items-center gap-[24px]'>
-          <p className='font-semibold text-[14px]'>Jones Ferdinand</p>
+          <p className='font-semibold text-[14px]'>Ikromkhan Shukrullayev</p>
           <img src={AvatarIcon} alt='Avatar' width={44} height={44} />
         </div>
       </div>
